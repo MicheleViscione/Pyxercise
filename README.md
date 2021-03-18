@@ -10,6 +10,7 @@ First of all, download [python3](https://www.python.org/downloads/).
 
        sudo apt update 
        sudo apt install python3
+       sudo apt install python3-pip
 
 Then install the [pycryptodome](https://pypi.org/project/pycryptodome/) library
 
